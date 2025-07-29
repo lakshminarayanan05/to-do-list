@@ -15,6 +15,7 @@ A simple, interactive To-Do List web application built using **HTML**, **CSS**, 
 ---
 
 ## 📸 Preview
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0457c923-58f5-4195-88ae-ae3eea21087a" />
 
 
 ---
@@ -40,10 +41,15 @@ A simple, interactive To-Do List web application built using **HTML**, **CSS**, 
 ## 📂 Folder Structure
 
 project-folder/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
